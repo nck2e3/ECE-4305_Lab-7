@@ -1,0 +1,10 @@
+verilog xil_defaultlib  \
+"../../../../ECE-4310_Lab-7v11.gen/sources_1/ip/microblaze_mcs_0/bd_0/ip/ip_6/sim/bd_fc5c_0_lmb_bram_I_0.v" \
+"../../../../ECE-4310_Lab-7v11.gen/sources_1/ip/microblaze_mcs_0/bd_0/ip/ip_8/sim/bd_fc5c_0_xlconcat_0_0.v" \
+"../../../../ECE-4310_Lab-7v11.gen/sources_1/ip/microblaze_mcs_0/bd_0/sim/bd_fc5c_0.v" \
+"../../../../ECE-4310_Lab-7v11.gen/sources_1/ip/microblaze_mcs_0/sim/microblaze_mcs_0.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
